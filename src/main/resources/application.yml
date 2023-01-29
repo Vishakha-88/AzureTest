@@ -1,0 +1,12 @@
+
+spring:
+  cloud:
+    azure:
+      active-directory:
+        profile:
+          tenant-id: 738df04b-5c20-4ba8-bc42-37669d51fbaa
+          client-id: 473b6c14-5eb8-4c35-b368-df44de8a5633
+          cilent-secret: ~uJ883MmGP2T8IEt_xHuc_cAz-1W9N_H-9
+          user-group:
+            allowed-groups: group1
+            
